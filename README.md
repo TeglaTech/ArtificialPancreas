@@ -22,7 +22,7 @@ Electronic component setup ![with mounted battery][caseInclBattery]
 
 ![Closed case without screws][closedNoScrews] for lighter weight (lid v2)
 
-[logo]: https://github.com/TeglaTech/ArtificialPancreas/tree/master/images/tegla_logo.png "Tegla Technologies logo"
+[logo]: https://github.com/TeglaTech/ArtificialPancreas/tree/master/images/tegla_logo_singleLetter.png "Tegla Technologies logo"
 [overview]: https://github.com/TeglaTech/ArtificialPancreas/blob/master/ArtificialPancreasCase_byTeglaTech.png "Project overview"
 [whitePrint]: https://github.com/TeglaTech/ArtificialPancreas/tree/master/images/WhiteOpenScrews_artPancr_TeglaTech.jpg "Closed case including screws"
 [closedScrews]: https://github.com/TeglaTech/ArtificialPancreas/tree/master/images/BlueClosedScrews_artPancr_TeglaTech.jpg "Closed case including screws"
